@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jul 11 16:16:58 2023
+# Process ID: 14040
+# Current directory: D:/Embedded_System/vivado_temp_project/6375Lab4/axi_insert_header_revise/axi_insert_header_revise.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/Embedded_System/vivado_temp_project/6375Lab4/axi_insert_header_revise/axi_insert_header_revise.sim/sim_1/behav/xsim/xsim.dir/test_bench_revise1_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Embedded_System/vivado_temp_project/6375Lab4/axi_insert_header_revise/axi_insert_header_revise.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/Embedded_System/vivado_temp_project/6375Lab4/axi_insert_header_revise/axi_insert_header_revise.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/Embedded_System/vivado_temp_project/6375Lab4/axi_insert_header_revise/axi_insert_header_revise.sim/sim_1/behav/xsim/xsim.dir/test_bench_revise1_behav/webtalk/xsim_webtalk.tcl -notrace
